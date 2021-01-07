@@ -82,6 +82,15 @@ a:hover{
     float: right;
     margin-left: 30px;
 }
+.exp{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+}
+li{
+    margin-bottom: 10px;
+}
+
 .intro{
     width: 30%;
     margin: auto;
